@@ -1,0 +1,12 @@
+/var/
+__pycache__
+/doc/_build
+/src/notboringschool/settings/local.py
+/src/notboringschool/settings/test.py
+/src/notboringschool/settings/production.py
+.~*
+/static/bundles/
+package-lock.json
+webpack-stats\.json
+node_modules/
+\.idea/

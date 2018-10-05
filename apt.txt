@@ -1,0 +1,17 @@
+git
+nginx
+python3.6
+python3-venv
+python3.6-dev
+uwsgi
+uwsgi-src
+uuid-dev
+libcap-dev
+libpcre3-dev
+libpython3-dev
+postgresql
+libpq-dev
+nodejs
+npm
+unoconv
+redis-server
